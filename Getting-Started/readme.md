@@ -4,7 +4,7 @@ https://ollama.com/download/windows
 # Select a model based on # of parameters.  Generally, more params means more hardware will be required.
 https://www.ollama.com/library
 
-# Ollama Commands
+## Ollama Commands
 ```
 ollama pull modelname - pulls a model down
 ollama run modelname - runs a model
@@ -19,7 +19,7 @@ When interacting with a model:
 # Python Virtual Environments
 * If you've never used Python before, treat each python scripting project as a separate entity and create a virtual environment.
 * Create the virutal environment
-'''
+```
 python -m venv .venv
 ```
 * Activate a virtual environment:  
