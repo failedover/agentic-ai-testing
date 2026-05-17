@@ -1,0 +1,4 @@
+# Requirements file
+# enter venv then:
+# python -m pip install -r requirements.txt
+ollama==0.3.3
